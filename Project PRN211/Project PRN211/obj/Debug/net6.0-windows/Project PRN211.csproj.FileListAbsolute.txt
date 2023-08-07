@@ -1,0 +1,54 @@
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Project PRN211.exe
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Project PRN211.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.csproj.AssemblyReference.cache
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project_PRN211.Form1.resources
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project_PRN211.Form2.resources
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project_PRN211.Form3.resources
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project_PRN211.Properties.Resources.resources
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.csproj.GenerateResource.cache
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.AssemblyInfoInputs.cache
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.AssemblyInfo.cs
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.csproj.CoreCompileInputs.cache
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Project PRN211.deps.json
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Project PRN211.runtimeconfig.json
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Project PRN211.pdb
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project PRN211\Project PRN211\Project PRN211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.csproj.CopyComplete
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.dll
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\refint\Project PRN211.dll
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.pdb
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project PRN211.genruntimeconfig.cache
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\ref\Project PRN211.dll
+D:\Project PRN211\Project PRN211\Project PRN211\obj\Debug\net6.0-windows\Project_PRN211.Form4.resources
