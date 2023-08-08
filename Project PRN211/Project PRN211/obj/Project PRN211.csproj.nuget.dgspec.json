@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project PRN211\\Project PRN211\\Project PRN211\\Project PRN211.csproj": {}
+    "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\Project PRN211.csproj": {}
   },
   "projects": {
-    "D:\\Project PRN211\\Project PRN211\\Project PRN211\\Project PRN211.csproj": {
+    "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\Project PRN211.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project PRN211\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
+        "projectUniqueName": "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
         "projectName": "Project PRN211",
-        "projectPath": "D:\\Project PRN211\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
+        "projectPath": "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
         "packagesPath": "C:\\Users\\Hanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Project PRN211\\Project PRN211\\Project PRN211\\obj\\",
+        "outputPath": "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nngf/TahW4NGlqV2WbkaAStfYdq1lpb8lFZ0LjgIuS2pV6P4sr5/3JkBBUu6nhWYVbHDLdUb2oIhk6UsClVYLg==",
+  "dgSpecHash": "E/68mScph2L0gUHzxhl5Q+Hh1L0u1EawUbSetRFz/Y/gJI9Fvi6PRJ5e+66aigmWHEUn6L4x1htnx5+lAUM5Eg==",
   "success": true,
-  "projectFilePath": "D:\\Project PRN211\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
+  "projectFilePath": "D:\\Quản Lý Chi Tiêu github\\QuanLyChiTieu\\Project PRN211\\Project PRN211\\Project PRN211.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hanh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hanh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
